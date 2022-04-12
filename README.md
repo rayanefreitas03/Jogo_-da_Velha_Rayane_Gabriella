@@ -13,7 +13,6 @@ formar primeiro uma linha com três símbolos iguais, seja ela na horizontal, ve
 
   ## Link jogo da velha
   link: file:///C:/Users/07264876195/Documents/Jogo%20da%20velha/index.html
-
   ## Sites Usados
 *_YOUTUBE_*: https://www.youtube.com/watch?v=M258B1b_pMs
 
